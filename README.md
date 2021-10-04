@@ -1,2 +1,2 @@
 # Facebook-Clone
-A clone for facebook
+A clone for facebook app
